@@ -18,8 +18,12 @@
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>
 
 ### 🌐 Connect with me:
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="https://t.me/Miraclee_888"></img>
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" href="https://www.reddit.com/user/Danel_688"></img>
+<a href="https://t.me/Miraclee_888">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img>
+</a> 
+<a href="https://www.reddit.com/user/Danel_688">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" ></img>
+</a>
 
 </br>
 
